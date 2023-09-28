@@ -11,6 +11,5 @@ class Form1(Form1Template):
   def gender_change(self, **event_args):
     """This method is called when an item is selected"""
     alert('You selected your gender')
-eioeie
 
 
